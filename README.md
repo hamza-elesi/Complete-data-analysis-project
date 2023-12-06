@@ -37,7 +37,7 @@ pip install -r requirements.txt
 To run the analysis, execute the Python scripts in a sequential manner as documented in the project. Ensure you have set up the YouTube Data API correctly and have your API keys ready.
 
 ## Contributing
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your features or improvements. 
+Contributions to this project are welcome. Please fork the repository and submit a pull request with your features or improvements.<br>
 <b>The Project made By ❤ & <b> Hamza EL MAATAOUI</b>
 
 ## License
