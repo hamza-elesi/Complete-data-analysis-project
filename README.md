@@ -29,7 +29,9 @@ This project offers a deep dive into YouTube channel analytics, leveraging the Y
 ## Setup and Installation
 Ensure you have Python installed on your system. Then, install the necessary libraries using:
 ```
+py -m evnv Name_of_your_Environment   # create a virtual envirement to avoid requirements issues
 pip install -r requirements.txt
+
 
 ```
 
