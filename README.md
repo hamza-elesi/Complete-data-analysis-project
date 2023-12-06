@@ -24,6 +24,7 @@ This project offers a deep dive into YouTube channel analytics, leveraging the Y
 Ensure you have Python installed on your system. Then, install the necessary libraries using:
 ```
 pip install -r requirements.txt
+
 ```
 
 ## Usage
