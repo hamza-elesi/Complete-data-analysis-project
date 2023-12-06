@@ -25,7 +25,7 @@ This project offers a deep dive into YouTube channel analytics, leveraging the Y
 - **Third**: At <b>API Services<b> tap into <b>Identifiants<b> and <b>create new Key<b> .
 - **Last**: Create more then one Key .
 - **Google API Client**: To interact with the YouTube Data API.
-- 
+  
 ## Setup and Installation
 Ensure you have Python installed on your system. Then, install the necessary libraries using:
 ```
